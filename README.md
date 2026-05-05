@@ -67,8 +67,8 @@ Also: wrote a book on Operating Systems (ISBN, 190+ downloads). Teaching assista
 ## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dperalta86&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues&hide_border=true&bg_color=00000000&title_color=fff&text_color=888&icon_color=fff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dperalta86&layout=compact&langs_count=6&theme=github_dark&hide=html,css,scss&hide_border=true&bg_color=00000000&title_color=fff&text_color=888" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=dperalta86&theme=github-dark-blue&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dperalta86&theme=github_dark&hide_border=true" />
 </div>
 
 ---
